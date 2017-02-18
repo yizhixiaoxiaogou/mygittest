@@ -9,7 +9,13 @@ afsdf
  
  avvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
  
- wq wo buhao lalalalala
+<<<<<<< HEAD
+ wq wo buhao 你好吗的哈哈哈 lalalalala
+=======
+ 
+ 
+ wq wo buhao q 我是服务端 lalalalala
+>>>>>>> b6619dcac198c8f7bca3e74c7b9805011c719acb
  
  
  
