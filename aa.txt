@@ -1,8 +1,0 @@
-cccc
-<<<<<<< HEAD
-66aaa666777
-bbb
-=======
-111aaa222
-bbb
->>>>>>> 861645a5a35b528a26debbf26b86c21c1181cab2
